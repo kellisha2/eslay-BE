@@ -51,123 +51,123 @@ const currentProducts = [
         
 
     },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // },
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // },
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // },
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // },
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // },
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // },
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // },
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
-    {
-        img: "",
-        name: "",
-        price: 0,
-        description: "string",
-        size: "",
-        brand: "",
-        condition: "",
-        category:"",
-        gender:""
+    // },
+    // {
+    //     img: "",
+    //     name: "",
+    //     price: 0,
+    //     description: "string",
+    //     size: "",
+    //     brand: "",
+    //     condition: "",
+    //     category:"",
+    //     gender:""
         
 
-    },
+    // },
     
   
 ]
