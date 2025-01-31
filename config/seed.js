@@ -171,3 +171,5 @@ const currentProducts = [
     
   
 ]
+
+module.exports = currentProducts

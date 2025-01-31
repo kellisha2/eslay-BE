@@ -3,8 +3,9 @@ const express = require ('express');
 const app = express();
 const PORT = process.env.PORT || 5050;
 const conn = require ('./config/db');
+const currentProducts = require("./config/seed")
+const Product = require('./models/products')
 const productRoutes = require('./routes/productRoutes')
-conn()
 
 
 
@@ -12,6 +13,7 @@ app.use(express.json())
 
 app.use("/api/products" , productRoutes )
 
+conn()
 
 
 app.get('/', (req, res) =>{
