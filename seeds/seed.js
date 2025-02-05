@@ -112,7 +112,7 @@ const currentProducts = [
         brand: "Fear of God",
         condition: "Very Good",
         category:"Matching Set",
-        gender:"Men"
+        gender:"Unisex"
         
 
     },
